@@ -1,0 +1,35 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6{
+    color: brown;
+    font-size: 1.5rem;
+}
+
+.section1{
+    background: red;
+    border: 5px solid red;
+}
+
+#section2 img{
+    width: 100%;
+    margin: 15%;
+}
+
+#section2 p{
+    text-align: center;
+    padding: 2rem;
+}
+
+.list{
+    border: 4px;
+    text-align: center;
+}
+
+.list ul{
+    list-style: none;
+}
